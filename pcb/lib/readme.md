@@ -1,0 +1,2 @@
+- Downloaded from https://github.com/OLIMEX/KiCAD.
+- Copy to `C:\Program Files\KiCad\share\kicad\library` or your KiCad's library directory.

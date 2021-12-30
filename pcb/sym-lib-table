@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name mp1584)(type Legacy)(uri ${KIPRJMOD}/lib/mp1584.lib)(options "")(descr ""))
+  (lib (name esp32)(type Legacy)(uri ${KIPRJMOD}/lib/esp32.lib)(options "")(descr ""))
+)
